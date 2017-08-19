@@ -1,0 +1,1 @@
+This folder contains 3 python files for the Movie Website. To run the web site run the entertainment_center.py file.
