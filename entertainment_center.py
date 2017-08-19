@@ -48,3 +48,5 @@ movies = [avatar, school_of_rock, ratatouille, midnight_in_paris, hunger_games]
 
 # Open the movies page
 fresh_tomatoes.open_movies_page(movies)
+
+'''TO DO: Commit to github'''
